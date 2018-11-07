@@ -1,12 +1,3 @@
 # Victor
-
-cambio 2
-
-asdasdad
-asd
-asd
-asd
-as
-d
-aaasdasdasda
-
+Cambio 2
+Cambio 3
